@@ -80,3 +80,5 @@ npm run build
 ## Сделано с ❤️ и BTC
 
 - 👨💻 Er1argh
+
+- 🌐 [React Crypto App](https://er1argh.github.io/react-crypto-app/)
